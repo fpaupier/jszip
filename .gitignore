@@ -1,0 +1,6 @@
+*~
+.c9revisions
+.DS_Store
+node_modules
+sauce_connect.log
+.idea/
